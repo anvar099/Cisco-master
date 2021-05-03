@@ -1,0 +1,18 @@
+body {
+  font-family: 'Gotham Pro';
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7598FF;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.cactive {
+  box-shadow: 2px 2px 20px rgba(22, 37, 80, 0.25);
+}
